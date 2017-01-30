@@ -16,6 +16,10 @@ http://nlp.stanford.edu/pubs/glove.pdf
 http://www.aclweb.org/anthology/Q15-1016
 http://www.aclweb.org/anthology/D15-1036
 
+## neural net
+http://cs231n.github.io/optimization-2/
+http://cs231n.github.io/neural-networks-1/
+http://u.cs.biu.ac.il/~yogo/nnlp.pdf
 
 
 
